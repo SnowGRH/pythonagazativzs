@@ -1,0 +1,3 @@
+import szam
+
+szam.elsofeladat()
