@@ -1,3 +1,5 @@
+import korok
 import szam
 
-szam.elsofeladat()
+#szam.elsofeladat()
+korok.korok()
